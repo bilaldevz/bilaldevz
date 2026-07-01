@@ -1,4 +1,4 @@
-<h1 align="center">Bilal Jamil</h1>
+<h1 align="center">Hi, I'm Bilal 👋</h1>
 <h3 align="center">Data Science Student at University of Engineering and Technology Lahore • Robotics Enthusiast</h3>
 <p align="center">
   I am ready to build practical solutions across AI, web development, and robotics — turning gaps into working products.
@@ -24,7 +24,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bilaldevz/bilaldevz/output/github-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/bilaldevz/bilaldevz/output/github-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
