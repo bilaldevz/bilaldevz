@@ -11,7 +11,7 @@
 ---
 
 ### ABOUT
-- Currently building projects across ** gap hunting, full-stack apps, and robotics**
+- Currently building projects across **gap hunting, full-stack apps, and robotics**
 - Working with **Python, C#, SQL, and modern data science tooling**
 - Interested in solving real gaps with practical, deployable solutions
 - Based in Lahore, Pakistan
@@ -21,17 +21,12 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,sklearn,numpy,pandas,mysql,git" />
 </p>
 
 ---
 
 ### Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/bilaldevz/bilaldevz/output/github-snake.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/bilaldevz/bilaldevz/output/github-snake-dark.svg#gh-dark-mode-only" />
@@ -40,16 +35,12 @@
 ---
 
 ### Featured Projects
-
 | Project | Description |
 |---|---|
 | [Sentiment-360-UI](https://github.com/bilaldevz/Sentiment-360-UI) | Frontend interface Website with PowerBI Dashboard integration for the Sentiment-360 sentiment analysis platform. |
-| [Sentiment-360-Back_End](https://github.com/bilaldevz/Sentiment-360-Back_End) | Backend/API  powering the Sentiment-360 sentiment analysis engine. |
-| [FilePilot](https://github.com/bilaldevz/FilePilot) | Tool for Searching files and folders in my own pc built using Python. |
+| [Sentiment-360-Back_End](https://github.com/bilaldevz/Sentiment-360-Back_End) | Backend/API powering the Sentiment-360 sentiment analysis engine. |
+| [FilePilot](https://github.com/bilaldevz/FilePilot) | Tool for searching files and folders on my own PC, built using Python. |
 | [R-W_ERP](https://github.com/bilaldevz/R-W_ERP) | ERP system project for business/resource management. |
-
-
-
 
 ---
 
@@ -64,7 +55,6 @@
 ---
 
 ### GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilaldevz&theme=default&hide_border=true" />
 </p>
