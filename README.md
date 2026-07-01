@@ -8,7 +8,18 @@
   <a href="mailto:unityfaithdiscipline6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<br>---
+
+### Featured Projects
+| Project | Description |
+|---|---|
+| [Sentiment-360-UI](https://github.com/bilaldevz/Sentiment-360-UI) | Frontend interface Website with PowerBI Dashboard integration for the Sentiment-360 sentiment analysis platform. |
+| [Sentiment-360-Back_End](https://github.com/bilaldevz/Sentiment-360-Back_End) | Backend/API powering the Sentiment-360 sentiment analysis engine. |
+| [FilePilot](https://github.com/bilaldevz/FilePilot) | Tool for searching files and folders on my own PC, built using Python. |
+| [R-W_ERP](https://github.com/bilaldevz/R-W_ERP) | ERP system project for business/resource management. |
+
 ---
+
 
 ### ABOUT
 - Currently building projects across **gap hunting, full-stack apps, and robotics**
@@ -19,9 +30,9 @@
 
 ---
 
-### Tech Stack
+### Tech 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,sklearn,numpy,pandas,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,,pandas,mysql,git" />
 </p>
 
 ---
@@ -34,15 +45,6 @@
 
 ---
 
-### Featured Projects
-| Project | Description |
-|---|---|
-| [Sentiment-360-UI](https://github.com/bilaldevz/Sentiment-360-UI) | Frontend interface Website with PowerBI Dashboard integration for the Sentiment-360 sentiment analysis platform. |
-| [Sentiment-360-Back_End](https://github.com/bilaldevz/Sentiment-360-Back_End) | Backend/API powering the Sentiment-360 sentiment analysis engine. |
-| [FilePilot](https://github.com/bilaldevz/FilePilot) | Tool for searching files and folders on my own PC, built using Python. |
-| [R-W_ERP](https://github.com/bilaldevz/R-W_ERP) | ERP system project for business/resource management. |
-
----
 
 ### Certifications
 **Go check my LinkedIn: <a href="https://www.linkedin.com/in/-bilal-jamil-/">Bilal Jamil</a>**
