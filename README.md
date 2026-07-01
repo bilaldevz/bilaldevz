@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Bilal 👋</h1>
 
-<h3 align="center">AI/ML Engineer • Full-Stack Developer • Robotics Enthusiast</h3>
+<h3 align="center">Data Science Student at University of Engineering and Tehcnology Lahore • Robotics Enthusiast</h3>
 
 <p align="center">
-  I build practical solutions across AI, web development, and robotics — turning gaps into working products.
+  I am ready to build practical solutions across AI, web development, and robotics — turning gaps into working products.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🌱 Working with **Python, C#, and modern data science tooling**
 - 💡 Interested in solving real gaps with practical, deployable solutions
 - 📍 Based in Lahore, Pakistan
-- ⚡ Fun fact: I like turning half-finished ideas into shipped projects
+- ⚡ Fun fact: I really like to put every idea into shipped projects.
 
 ---
 
@@ -28,12 +28,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
@@ -59,26 +55,13 @@
 
 ### 🎓 Certifications
 
-<!-- Copy-paste each cert from your LinkedIn "Licenses & Certifications" section in this format:
-- **Certificate Name** — Issuing Organization (Year) — [Credential Link](url)
--->
-- **[Certificate Name]** — [Issuing Org] (Year)
-- **[Certificate Name]** — [Issuing Org] (Year)
-- **[Certificate Name]** — [Issuing Org] (Year)
+**Go check my LinkedIn: <a href="https://www.linkedin.com/in/-bilal-jamil-/">Bilal Jamil</a>**
 
 ---
 
 ### 📁 Additional Projects
 
-<!-- Copy-paste each project from your LinkedIn "Projects" section in this format:
-#### [Project Name]
-Short 1-2 line description of what it does and what you used to build it.
--->
-#### [Project Name]
-Short description of the project — what it does, tech used, and outcome/impact if any.
-
-#### [Project Name]
-Short description of the project — what it does, tech used, and outcome/impact if any.
+**Go check my LinkedIn: <a href="https://www.linkedin.com/in/-bilal-jamil-/">Bilal Jamil</a>**
 
 ---
 
