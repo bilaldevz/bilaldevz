@@ -32,7 +32,7 @@
 
 ### Tech 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,,pandas,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,pandas,mysql,git" />
 </p>
 
 ---
