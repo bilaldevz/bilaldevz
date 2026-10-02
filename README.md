@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,50:172554,100:7C3AED&height=200&section=header&text=BILAL%20JAMIL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20STUDENT%20%7C%20BUILDER%20%7C%20ROBOTICS%20ENTHUSIAST&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Bilal Jamil profile banner"/>
 
-### `> Turning ideas into things that actually work.` ⚡
+### `> Turning ideas into things that actually work.` 
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+UET+Lahore;Building+projects%2C+not+just+collecting+ideas;Exploring+AI%2C+Web+Development+%26+Robotics;Find+a+gap.+Build+a+solution.+Ship+it." alt="Typing introduction"/>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## `whoami`
 
 ```python
 class BilalJamil:
@@ -53,18 +53,18 @@ I'm a Data Science student who enjoys exploring technology, finding gaps in exis
 
 I like experimenting across different fields, learning by doing, and turning random ideas into something people can actually use.
 
-* 🔭 **Building:** Practical software projects and experimental ideas
-* 🧠 **Learning:** Data structures, algorithms, data science, and software engineering
-* 🤖 **Exploring:** AI, robotics, and intelligent systems
-* 🛠️ **Approach:** Build first, learn continuously, improve relentlessly
-* 📍 **Based in:** Lahore, Pakistan
-* 🎯 **Goal:** Create useful technology, one project at a time
+*  **Building:** Practical software projects and experimental ideas
+*  **Learning:** Data structures, algorithms, data science, and software engineering
+*  **Exploring:** AI, robotics, and intelligent systems
+*  **Approach:** Build first, learn continuously, improve relentlessly
+*  **Based in:** Lahore, Pakistan
+*  **Goal:** Create useful technology, one project at a time
 
-> 💡 *I don't want to just learn how technology works. I want to build things with it.*
+>  *I don't want to just learn how technology works. I want to build things with it.*
 
 ---
 
-## 🚀 Featured Projects
+## My Featured Products
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I like experimenting across different fields, learning by doing, and turning ran
 
 ---
 
-## ⚡ Tech Arsenal
+## What i am good at
 
 <div align="center">
 
@@ -128,7 +128,7 @@ I like experimenting across different fields, learning by doing, and turning ran
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -138,14 +138,14 @@ I like experimenting across different fields, learning by doing, and turning ran
 
 ---
 
-## 🏆 Beyond the Code
+##  Besides this
 
 * 🎓 Data Science student at the University of Engineering and Technology, Lahore
 * 🧩 Interested in problem-solving, algorithms, and practical software engineering
 * 🤖 Curious about robotics and the intersection of hardware and software
 * 💭 Always collecting ideas that could become real projects
 
-### 📜 Certifications & Small Projects
+###  ACHIVEMENTS and Blogs
 
 Explore my learning journey, workshops, certifications, and additional projects on LinkedIn.
 
@@ -159,7 +159,7 @@ Explore my learning journey, workshops, certifications, and additional projects 
 
 ---
 
-## 🤝 Let's Build Something
+## Lets Catch up
 
 Have an interesting idea, a problem worth solving, or a project you'd like to collaborate on? Let's connect.
 
